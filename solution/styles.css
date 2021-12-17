@@ -106,7 +106,7 @@ body {
 }
 
 button {
-    /* padding: 15px 89px; */
+    font-family: 'Karla', sans-serif;
     width: 237px;
     height: 48px;
     background-color: #C0DF33;
