@@ -12,7 +12,7 @@ body {
     background-color: #fff;
     width: 635px;
     height: 4afddd;
-    margin: 122px auto;
+    margin: 163px auto;
     border-radius: 8px 8px 0 0;    
     font-family: 'Karla', sans-serif;
 }
@@ -106,7 +106,9 @@ body {
 }
 
 button {
-    padding: 15px 89px;
+    /* padding: 15px 89px; */
+    width: 237px;
+    height: 48px;
     background-color: #C0DF33;
     color: #fff;
     font-size: 16px;
